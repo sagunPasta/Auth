@@ -1,10 +1,11 @@
 [
   {
-    "login": "seiji",
-    "password": "1234"
+    "login": "Admin",
+    "password": "reallyhardpassword1*"
   },
   {
-    "login": "testuser",
-    "password": "password"
-  }
+    "login": "MarineUser",
+    "password": "MarineBolashak"
+  },
+  
 ]
